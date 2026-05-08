@@ -1,7 +1,6 @@
 # Vite React Better Auth Boilerplate
-
 A full-stack TypeScript boilerplate using Vite, React, TanStack Router, TanStack Table, Better Auth, MongoDB, Express, and Tailwind CSS.
-
+<img width="1536" height="1024" alt="vite-react-better-auth-boilerplate" src="https://github.com/user-attachments/assets/bd67de70-8d3c-437e-aa68-7fa7cdbe3af2" />
 ## Features
 
 - Vite + React + TypeScript
